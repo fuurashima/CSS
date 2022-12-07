@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.header{
+    background-color: chocolate;
+    background-image: url(/assets/img/banner.jpg);
+    height: 10em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: calc(100%);
+    border-color: white;
+
+}
+.title{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-align:justify;
+    margin: 1.2% 0% 0%;
+}
+
+p{
+    color: rgb(12, 71, 160);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+.parrafo{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 1.2% 10% 10% 2%;
+    
+}
+
+.satellite{
+    height: 15em;
+    margin: 2% 0% 0% 3%;   
+    
+}
+
+.fibra{
+    height: 15em;
+    margin: 2% 0% 0% 3%;
+    
+}
+
+.Wired{
+    height: 15em;
+    margin: 2% 0% 0% 3%;       
+    
+}
+
+.footer{
+    background-color: rgb(42, 90, 109);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+table{
+    width: 50%;
+    margin: 0;
+    
+    }
+    
